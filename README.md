@@ -1,10 +1,7 @@
-### Hi there! 👋 I am Georgiy Bereza
-Software Developer
+### Hi there! 👋 My name is Georgiy Bereza and I am a Software Developer...
 ------------------
 
-profile
-
-* 🌍  I'm based in Tbilisi
+🌍  Currently based in Tbilisi
 
 ### Skills
 
