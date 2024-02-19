@@ -3,7 +3,6 @@
 
 🌍  Currently based in Tbilisi
 <br>
-🔭 Looking for a trainee / juniour developer position in Georgia, Serbia or remote
 
 ### Skills
 
